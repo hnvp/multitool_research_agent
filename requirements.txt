@@ -1,0 +1,10 @@
+langchain>=1.1,<2
+langchain-ollama>=1.0,<2
+langchain-text-splitters>=1.0,<2
+streamlit>=1.40
+python-dotenv>=1.0
+requests>=2.31
+tavily-python>=0.7
+pinecone>=7.0
+sentence-transformers>=3.0
+pymupdf>=1.24
